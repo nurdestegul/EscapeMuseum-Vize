@@ -20,10 +20,13 @@ Bu projede Vuforia Engine kullanılarak EscapeMuseum oyunundaki müzenin öncede
 
 # Ekran Çıktıları
 
-Unity Sahne Görünümü
+## Proje Demosu
+![screenshot0](screenshots/vize-demo.gif)
+
+## Unity Sahne Görünümü
 ![screenshot1](screenshots/proje_gorunumu.png)
 
-Kullanılan QR Kod
+## Kullanılan QR Kod
 ![screenshot2](screenshots/qr_kod.jpg)
 
 
